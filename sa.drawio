@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T20:34:50.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="4H5dBINj8iiSBhr8utQc" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T20:36:55.237Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="QWTE5LqUmY-fAJvNXTTM" version="20.8.8" type="github">
   <diagram name="ページ1" id="fXQGwLwxcsX7CUMJAYKi">
     <mxGraphModel dx="1000" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EVj-vUJIYEx4gGSBxMJp-107" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="50" width="350" height="430" as="geometry" />
+        <mxCell id="EVj-vUJIYEx4gGSBxMJp-107" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="360" height="450" as="geometry" />
         </mxCell>
         <mxCell id="EVj-vUJIYEx4gGSBxMJp-97" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=51.5;direction=west;fillColor=#FF5C33;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="275" width="470" height="50" as="geometry" />

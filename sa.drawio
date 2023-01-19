@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T21:08:27.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="yZ8YGB5CY27Foqw0qnQ5" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T21:13:33.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="ILJNSQ5PdeIibxB85x5e" version="20.8.8" type="github">
   <diagram name="ページ1" id="fXQGwLwxcsX7CUMJAYKi">
     <mxGraphModel dx="1000" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -118,14 +118,17 @@
         <mxCell id="EVj-vUJIYEx4gGSBxMJp-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;`i=0`&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EVj-vUJIYEx4gGSBxMJp-124" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;提案手法&lt;/li&gt;&lt;li&gt;既存手法&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=30;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="180" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="EVj-vUJIYEx4gGSBxMJp-128" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="190" width="35" height="20" as="geometry" />
+        <mxCell id="EVj-vUJIYEx4gGSBxMJp-136" value="&lt;ul&gt;&lt;li&gt;既存手法&lt;/li&gt;&lt;li&gt;提案手法&lt;/li&gt;&lt;li&gt;差分&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=24;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EVj-vUJIYEx4gGSBxMJp-129" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FF5C33;" vertex="1" parent="1">
-          <mxGeometry x="400" y="155" width="35" height="20" as="geometry" />
+          <mxGeometry x="414" y="130" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EVj-vUJIYEx4gGSBxMJp-128" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="160" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EVj-vUJIYEx4gGSBxMJp-138" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="414" y="190" width="36" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
